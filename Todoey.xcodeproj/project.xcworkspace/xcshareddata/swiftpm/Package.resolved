@@ -1,0 +1,41 @@
+{
+  "pins" : [
+    {
+      "identity" : "chameleonframework",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/starkdmi/ChameleonFramework.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "71b36b0dbbd09b923c9e948b73d2492ea6097a68"
+      }
+    },
+    {
+      "identity" : "realm-core",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/realm/realm-core.git",
+      "state" : {
+        "revision" : "e836317e8238bd32f06086dd7ce6768ef574beb6",
+        "version" : "13.22.0"
+      }
+    },
+    {
+      "identity" : "realm-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/realm/realm-swift.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "16273bd3968468e0c947dfe8577975c34d8d4360"
+      }
+    },
+    {
+      "identity" : "swipecellkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SwipeCellKit/SwipeCellKit",
+      "state" : {
+        "revision" : "7219cad3098637176ace311510d11467dbfb9bb0",
+        "version" : "2.7.1"
+      }
+    }
+  ],
+  "version" : 2
+}
